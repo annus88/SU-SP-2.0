@@ -1,6 +1,7 @@
 import os
 
 class Config:
+
     SECRET_KEY = "susp2026"
 
     BASE_DIR = os.path.abspath(os.path.dirname(__file__))
