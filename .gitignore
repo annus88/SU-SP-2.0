@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+
+venv/
+.env
+
+database.db
+
+chromedriver.exe
+
+*.zip
+
+uploads/
+
+.vscode/
