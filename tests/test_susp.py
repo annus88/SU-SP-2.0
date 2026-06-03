@@ -138,7 +138,7 @@ driver.get(BASE_URL + "/login")
 driver.find_element(
     By.NAME,
     "email"
-).send_keys("teacher@12")
+).send_keys("usman@12")
 
 driver.find_element(
     By.NAME,
